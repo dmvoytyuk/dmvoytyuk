@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">Hard Skills</h5>
+<h5 align="left">Сonsolidate knowledge</h5>
 
 ###
 
