@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Dmytro and I'm a FrontEnd developer.</h3>
+<h3 align="left">Hi fellow visitor</h3>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Roadmap</h2>
+<h2 align="center">Roadmap to Fullstack Developer</h2>
 
 ###
 
