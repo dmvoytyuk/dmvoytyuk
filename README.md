@@ -1,5 +1,3 @@
-<h3 align="left">Hello fellow visitor</h3>
-
 ###
 
 <div align="center">
