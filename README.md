@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">I'm usign</h5>
+<h5 align="left">I'm using:</h5>
 
 ###
 
